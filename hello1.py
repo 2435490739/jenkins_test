@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
 print('ok')
-print（‘hello’）
+print('hello')
+print ('kitty')
 
